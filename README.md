@@ -2,7 +2,7 @@
 - 👀 I’m interested in retro computing, coding, & CLI
 - 🌱 I’m currently learning JavaScript & C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me drewott9@gmail.com
+- 📫 drewott9@gmail.com
 
 <!---
 Chasnah7/Chasnah7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

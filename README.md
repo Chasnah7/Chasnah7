@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chasnah7
 - 👀 I’m interested in retro computing, coding, & CLI
-- 🌱 I’m currently learning JavaScript & C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 chasnah7@protonmail.com
 
